@@ -6,7 +6,7 @@ This repository contains implementations for various topics covered in an Operat
 
 ## Project Implementations
 - [Multithreading](/Multithreading/): Implementation of multithreading concepts.
-- [Preemptive And_Non-Preemptive Schedulers](/Preemptive_And_Non-Preemptive_Scheduler): Implementation of scheduling algorithms with and without preemption.
+- [Preemptive And Non-Preemptive Schedulers](/Preemptive_And_Non-Preemptive_Scheduler): Implementation of scheduling algorithms with and without preemption.
 - [Round-Robin Scheduler](/Round-Robin_Scheduler): Implementation of the round-robin scheduling algorithm.
 - [Systems Calls And Paging](/Systems_Calls_And_Paging): Implementation of system calls and paging mechanisms.
 
